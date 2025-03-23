@@ -1,0 +1,4 @@
+# Ignore semua file CSV
+*.csv
+# Ignore semua file 
+1.py
