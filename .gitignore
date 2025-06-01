@@ -6,3 +6,4 @@
 
 # Kecualikan file app1.py saja
 !app1.py
+! .txt
