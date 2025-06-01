@@ -34,8 +34,8 @@ Aplikasi berbasis **Streamlit** untuk menganalisis kelengkapan dokumen santri da
 1. **Clone repositori ini**
 
    ```bash
-   git clone https://github.com/username/analisis-dokumen-santri.git
-   cd analisis-dokumen-santri
+   git clone https://github.com/dhmsAdhty/Bigdata.git
+   cd Bigdata
    ```
 
 2. **Buat virtual environment (opsional tapi disarankan)**
