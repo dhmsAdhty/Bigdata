@@ -1,4 +1,8 @@
-# Ignore semua file CSV
-*.csv
-# Ignore semua file 
-1.py
+# Abaikan semua file dan folder
+*
+
+# Kecualikan file .gitignore agar tetap ter-track
+!.gitignore
+
+# Kecualikan file app1.py saja
+!app1.py
